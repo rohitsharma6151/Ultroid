@@ -84,7 +84,7 @@ BOT OF @SaaimStar 🥷
   ◍ Telethon - {}
 """
 
-in_alive = "{}\n\n🌀 <b>Ultroid Version -><b> <code>{}</code>\n🌀 <b>PyUltroid -></b> <code>{}</code>\n🌀 <b>Python -></b> <code>{}</code>\n🌀 <b>Uptime -></b> <code>{}</code>\n🌀 <b>Branch -></b> MAIN\n\n• <b>Join @TeamUltroid</b>"
+in_alive = "{}\n\n🌀 <b>Ultroid Version -><b> <code>{}</code>\n🌀 <b>PyUltroid -></b> <code>{}</code>\n🌀 <b>Python -></b> <code>{}</code>\n🌀 <b>Uptime -></b> <code>{}</code>\n🌀 <b>Branch -></b> MAIN\n\n• <b>Join @TeamUltroid ✘ @AndTricksBD</b>"
 
 
 @callback("alive")
@@ -332,7 +332,7 @@ async def _(e):
         )
         Link = x.message_link
         await xx.edit(
-            f'<strong><a href="{Link}">[ChangeLogs]</a></strong>',
+            f'<strong><a href="{Link}">[ChangeLogs 🥷]</a></strong>',
             parse_mode="html",
             link_preview=False,
         )
