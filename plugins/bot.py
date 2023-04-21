@@ -84,7 +84,7 @@ BOT OF @SaaimStar 🥷
   ◍ Telethon - {}
 """
 
-in_alive = "{}\n\n🌀 <b>Ultroid Version -><b> <code>{}</code>\n🌀 <b>PyUltroid -></b> <code>{}</code>\n🌀 <b>Python -></b> <code>{}</code>\n🌀 <b>Uptime -></b> <code>{}</code>\n🌀 <b>Branch -></b> MAIN\n\n• <b>Join @TeamUltroid ✘ @AndTricksBD</b>"
+in_alive = "{}\n\n🥷 <b>Ultroid Version -><b> <code>{}</code>\n🥷 <b>PyUltroid -></b> <code>{}</code>\n🥷 <b>Python -></b> <code>{}</code>\n🥷 <b>Uptime -></b> <code>{}</code>\n🥷 <b>Branch -></b> MAIN\n\n• <b>Join @TeamUltroid ✘ @AndTricksBD</b>"
 
 
 @callback("alive")
