@@ -159,12 +159,12 @@ wspr_4: "User {} Not Found\nSearch Again"
 wspr_5: "You Can't do this"
 
 # afk
-afk_1: "**No Longer Afk**\n\nWas away for ~ `{}`"
+afk_1: "**No Longer Afk 🥷**\n\nWas away for ~ `{}`"
 afk_2: "#AFK\nSet AFK mode to False.\nWas AFK since ~ `{}`"
-afk_3: "**I'm currently AFK.**\nLast seen `{}` ago.\n\n**Reason:** `{}`"
-afk_4: "**I'm currently AFK.**\n\nLast seen `{}` ago."
-afk_5: "**I'm Going AFK.**\n\n**Reason:** `{}`"
-afk_6: "**I'm Going AFK.**"
+afk_3: "**I'm currently AFK 😴.**\nLast seen `{}` ago.\n\n**▶️ Reason:** `{}`"
+afk_4: "**I'm currently AFK 😴.**\n\nLast seen `{}` ago."
+afk_5: "**I'm Going AFK 😔.**\n\n**▶️ Reason:** `{}`"
+afk_6: "**I'm Going AFK 😔.**"
 
 # bot
 bot_1: "Hey,  I am alive."
@@ -172,9 +172,9 @@ bot_2: "Stats"
 bot_3: "Repo"
 bot_4: "Support"
 bot_5: "• `Restarting...`"
-alive_1: "═══════════════════\n**𝙐𝙡𝙩𝙧𝙤𝙞𝙙 ✘ 𝙐𝙨𝙚𝙧𝘽𝙤𝙩**\n\n**{}**\n\n╟ **𝙊𝙬𝙣𝙚𝙧** - `{}`\n╟ **𝙐𝙡𝙩𝙧𝙤𝙞𝙙** - `{}`\n╟ **𝙋𝙮-𝙐𝙡𝙩𝙧𝙤𝙞𝙙** - `{}`\n╟ **𝙐𝙥𝙏𝙞𝙢𝙚** - `{}`\n╟ **𝙋𝙮𝙩𝙝𝙤𝙣** - `{}`\n╟ **𝙏𝙚𝙡𝙚𝙩𝙝𝙤𝙣** - `{}`\n╟ **𝘽𝙧𝙖𝙣𝙘𝙝** - `MAIN`\n═══════════════════"
+alive_1: "**𝙐𝙡𝙩𝙧𝙤𝙞𝙙 ✘ 𝙐𝙨𝙚𝙧𝘽𝙤𝙩**\n\n**{}**\n\n═══════════════════\n╟ **𝙊𝙬𝙣𝙚𝙧** - `{}`\n╟ **𝙐𝙡𝙩𝙧𝙤𝙞𝙙** - `{}`\n╟ **𝙋𝙮-𝙐𝙡𝙩𝙧𝙤𝙞𝙙** - `{}`\n╟ **𝙐𝙥𝙏𝙞𝙢𝙚** - `{}`\n╟ **𝙋𝙮𝙩𝙝𝙤𝙣** - `{}`\n╟ **𝙏𝙚𝙡𝙚𝙩𝙝𝙤𝙣** - `{}`\n╟ **𝘽𝙧𝙖𝙣𝙘𝙝** - `MAIN`\n═══════════════════"
 log: "**Heroku** Ultroid Logs.\nPasted [here]({}) too!"
-ping: "**Pong !!** `{}ms`\n**Uptime** - `{}`"
+ping: "**Pong 🔴!!** `{}ms`\n**⌛ Uptime** - `{}`"
 usage: "**⚙️ Dyno Usage ⚙️**:\n\n-> **Dyno usage for** `{}`:\n  •  **{}h**  **{}m |** `[{}%]`\n-> **Dyno hours quota remaining this month**:\n  •  **{}h**  **{}m |** `[{}%]`\n\n**Total Disk Space**: `{}`\n**Used**: `{}`\n**Free**: `{}`\n\n**📊 Data Usage 📊**\n**Upload**: `{}`\n**Down**: `{}`\n\n**CPU**: `{}%`\n**RAM**: `{}%`\n**DISK**: `{}%`"
 usage_simple: "**Total Disk Space**: `{}`\n**Used**: `{}`\n**Free**: `{}`\n\n**📊 Data Usage 📊**\n**Upload**: `{}`\n**Down**: `{}`\n\n**CPU**: `{}%`\n**RAM**: `{}%`\n**DISK**: `{}%`"
 shutdown: "GoodBye {}.\n`Shutting down...`"
@@ -199,7 +199,7 @@ bd_8: "`Removing...`"
 bd_9: "Channel is already removed from database. "
 
 # calculator
-calc_1: "• Ultroid Inline Calculator •"
+calc_1: "• STAR✘ Inline Calculator •"
 calc_2: "Open Calculator Again"
 
 # channel hacks
@@ -375,7 +375,7 @@ nightm_5: "Something Went Wrong"
 
 # pmpermit
 pmperm_1: "Please wait for me to respond or you will be blocked and reported as spam!!"
-pmperm_2: "Eyy, I told you not to spam!\nYou've been blocked and reported, for now."
+pmperm_2: "Eyy‼️ I told you not to spam!\nYou've been blocked and reported, for now 😑."
 pmperm_3: "Reply to someone's message or try this command in private."
 
 # schedule_msg
